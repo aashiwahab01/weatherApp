@@ -1,0 +1,54 @@
+body{
+     background-color: rgb(19, 17, 17) ;
+    background-image:url("img/bg5.jpg") !important;
+     background-repeat: no-repeat; 
+    background-size: cover;  
+    
+}
+.label{
+    color: white;
+    font-family: 'Signika Negative', sans-serif;
+   margin-top: 150px;
+   margin-bottom: 100px;
+   margin-left: 500px;
+}
+
+.head1{
+    color: white;
+    margin-left: 550px;
+    font-family: 'Signika Negative', sans-serif;
+    padding-top: 20px;
+}
+.btn{
+    margin-right: 600px;
+    height: 40px;
+    margin-top: 150px;
+}
+.div1{
+   color: rgb(239, 232, 232); 
+   position: absolute;
+   width: 200px;
+   margin-left: 100px;
+   border-style: groove;
+   padding: 20px;
+}
+.div2{
+    position: absolute;
+    color: rgb(235, 226, 226);
+    margin-left: 400px;
+    width: 200px;
+    border-style: dashed;
+    padding: 20px;
+}
+.div3{
+    color: rgb(239, 228, 228);
+    margin-left: 700px;
+    width: 200px;
+    border-style:groove;
+    padding: 20px;
+}
+.head2{
+        color: aliceblue;
+        padding-left: 20px;
+        margin-bottom: 40px;
+ } 
